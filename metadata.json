@@ -1,0 +1,8 @@
+{
+  "name": "Your AI tutor",
+  "description": "Interactive AI tutor and photo-to-educational video generator. Understand textbook pages, diagrams, code, and academic subjects with step-by-step guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
